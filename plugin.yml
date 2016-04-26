@@ -1,0 +1,31 @@
+name: Farvekoder
+main: me.nipe.Farvekoder.Farvekoder
+version: 0.1
+commands:
+  &1:
+    description: Denne fave er grå
+    usage: /<command>
+  &2:
+    description: Denne fave er grøn
+    usage: /<command>
+  &3:
+    description: Denne fave er gul
+    usage: /<command>
+  &4:
+    description: Denner fave er rød
+    usage: /<command>
+  &5:
+    description: Denne fave er Mørke-vand
+    usage: /<command>
+  &6:
+    description: Denne fave er (orange()guld)
+    usage: /<command>
+  &7:
+    description: Denne fave er lysse-lilla
+    usage: /<command>
+  &8:
+    description: Denne fave er mørke-lilla
+    usage: /<command>
+  &9:
+    description: Denne fave er den seje
+    usage: /<command>
